@@ -1,1 +1,1 @@
-# tdcs-eeg
+# tdcs-eeg-kcni
